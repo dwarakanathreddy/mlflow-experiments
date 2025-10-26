@@ -1,0 +1,10 @@
+artifact_location: file:///Users/dwarakanathjampani/Documents/mlflow-experiments/mlruns/624167079174384271/models/m-9c8aafced5344dd69366d8ee5c1f23e9/artifacts
+creation_timestamp: 1761452314579
+experiment_id: '624167079174384271'
+last_updated_timestamp: 1761452317766
+model_id: m-9c8aafced5344dd69366d8ee5c1f23e9
+model_type: null
+name: rf_apples
+source_run_id: ff4b219f7fc644fe960a737f5429a088
+status: 2
+status_message: null
