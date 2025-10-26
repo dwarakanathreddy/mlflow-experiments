@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/dwarakanathjampani/Documents/mlflow-experiments/mlruns/624167079174384271/cc90de4cbed34f92adc34e8602eb67f9/artifacts
+end_time: 1761453780041
+entry_point_name: ''
+experiment_id: '624167079174384271'
+lifecycle_stage: active
+run_id: cc90de4cbed34f92adc34e8602eb67f9
+run_name: apples_rf_test
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761453777005
+status: 3
+tags: []
+user_id: dwarakanathjampani
